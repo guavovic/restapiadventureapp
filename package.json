@@ -1,0 +1,20 @@
+{
+  "name": "restapiadventureapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guavovic/restapiadventureapp.git"
+  },
+  "keywords": [],
+  "author": "Gustavo Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guavovic/restapiadventureapp/issues"
+  },
+  "homepage": "https://github.com/guavovic/restapiadventureapp#readme"
+}
